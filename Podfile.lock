@@ -1,0 +1,40 @@
+PODS:
+  - DynamicBlurView (4.0.0)
+  - IQKeyboardManagerSwift (6.5.4)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SkyFloatingLabelTextField (3.7.0)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - YoutubePlayerView (1.1.0)
+
+DEPENDENCIES:
+  - DynamicBlurView
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SQLite.swift (~> 0.12.0)
+  - YoutubePlayerView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DynamicBlurView
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - SkyFloatingLabelTextField
+    - SQLite.swift
+    - YoutubePlayerView
+
+SPEC CHECKSUMS:
+  DynamicBlurView: ccf9acd2b20c883cc2c72e3524a04d8d3ee20533
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  YoutubePlayerView: ceed1ec64d8debcc5a12a66ec128880ecd2bbb60
+
+PODFILE CHECKSUM: 2f06965a1451dc00624f61e2933e53ef6dae358d
+
+COCOAPODS: 1.5.3

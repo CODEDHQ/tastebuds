@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>303143946449-vrh91dqo73sdjalthgopaqbemfnflfma.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.303143946449-vrh91dqo73sdjalthgopaqbemfnflfma</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTlQ6Od5qn3yZ1mhBMeHEY-iwCXAOMSkA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>303143946449</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iforsan.Tastebuds</string>
+	<key>PROJECT_ID</key>
+	<string>tastebuds-434c9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tastebuds-434c9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:303143946449:ios:eacaea2190a669fec11df0</string>
+	<key>DATABASE_URL</key>
+	<string>https://tastebuds-434c9.firebaseio.com</string>
+</dict>
+</plist>
